@@ -61,8 +61,8 @@ XGBoost, her tahmin iterasyonunda hatayı minimize etmeye çalışır. Ana fikir
    	ext{Obj} = \sum_i L(y_i, \hat{y}_i^{(t)}) + \sum_t \Omega(f_t)
    \]
    - \( \Omega(f_t) \): model karmaşıklık cezası
-
-Matematik kısmı karışık geldiyse:
+   - 
+## Matematik Kısmı Karışık Geldiyse
 
 🧩 Adım 1: Başlangıç Tahmini Yapılır
 Model ilk olarak hiçbir şey öğrenmeden tüm örnekler için aynı tahmini yapar.
