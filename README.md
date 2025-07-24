@@ -262,3 +262,9 @@ En kritik özellik: **Elevation**. Diğerleri mesafe ve ışık sütunları.
 | Regularization | Yok       | Var (L1/L2)     | Yok            |
 
 ---
+🤝 Katkı Sağlamak
+Bu proje, öğrenmeye açık ve sürekli gelişen bir yapıya sahiptir.
+Hataların bildirilmesi, iyileştirme önerileri veya yeni özellik eklemeleriyle katkıda bulunmak isteyen geliştiriciler pull request gönderebilir veya issue oluşturarak geri bildirimde bulunabilirler.
+
+Katkılarınız için şimdiden teşekkür ederiz. 
+Ceren Mencütekin
