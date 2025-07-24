@@ -62,7 +62,9 @@ XGBoost, her tahmin iterasyonunda hatayı minimize etmeye çalışır. Ana fikir
    \]
    - \( \Omega(f_t) \): model karmaşıklık cezası
 
-   🧩 Adım 1: Başlangıç Tahmini Yapılır
+Matematik kısmı karışık geldiyse:
+
+🧩 Adım 1: Başlangıç Tahmini Yapılır
 Model ilk olarak hiçbir şey öğrenmeden tüm örnekler için aynı tahmini yapar.
 
 Mesela sınıflandırma için başlangıç değeri genelde sabittir (örneğin logloss için 0.5 olabiliyor).
